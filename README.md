@@ -1,4 +1,24 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Lucas Duarte</h1>
+<h3 align="center">A developer in love about what he does!</h3>
+
+<img align="right" src="" width="350"/>
+
+<a href="https://www.linkedin.com/in/lucas-duarte-inacio/">
+<img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-Lucas%20Duarte-blue"/>
+</a>
+
+<a href="mailto:lucasduarteinacio@hotmail.com">
+<img align="right" alt="E-mail" src="https://img.shields.io/badge/-How%20to%20reach%20me-red"/>
+</a>
+
+<br/>
+
+### Hey! Welcome to my profile! How is it going? 👋😄
+
+- 🚀 I’m currently working at [Eteg](https://eteg.com.br/)
+- 💻 Java , Grails, Node, Angular, ReactJS, Typescript
+- ✨ Learning is continuous and there will always be a next level
+
 
 <!--
 **LucasDuarteInacio/LucasDuarteInacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
