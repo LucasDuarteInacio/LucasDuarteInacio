@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Duarte</h1>
 <h3 align="center">A developer in love about what he does!</h3>
 
-<img align="right" src="" width="350"/>
+<img align="right" src="https://raw.githubusercontent.com/LucasDuarteInacio/LucasDuarteInacio/main/img/computer-illustration.png" width="350"/>
 
 <a href="https://www.linkedin.com/in/lucas-duarte-inacio/">
 <img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-Lucas%20Duarte-blue"/>
