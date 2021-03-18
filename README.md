@@ -15,7 +15,7 @@
 
 ### Hey! Welcome to my profile! How is it going? 👋😄
 
-- 🚀 I’m currently working at [Eteg](https://eteg.com.br/)
+- 🚀 I’m currently working at [CorenMG](https://www.corenmg.gov.br/)
 - 💻 Java , Grails, Node, Angular, ReactJS, Typescript
 - ✨ Learning is continuous and there will always be a next level
 
