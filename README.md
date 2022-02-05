@@ -7,7 +7,7 @@
 <img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-Lucas%20Duarte-blue"/>
 </a>
 
-<a href="mailto:lucasduarteinacio@hotmail.com">
+<a href="mailto:lucasduarteinacio@gmail.com">
 <img align="right" alt="E-mail" src="https://img.shields.io/badge/-How%20to%20reach%20me-red"/>
 </a>
 
@@ -15,8 +15,8 @@
 
 ### Hey! Welcome to my profile! How is it going? 👋😄
 
-- 🚀 I’m currently working at [CorenMG](https://www.corenmg.gov.br/)
-- 💻 Java , Grails, Node, Angular, ReactJS, Typescript
+- 🚀 I’m currently working at [CI&T](https://ciandt.com/br/pt-br/home)
+- 💻 Java❤️ , Grails, Node, Angular, ReactJS, Typescript
 - ✨ Learning is continuous and there will always be a next level
 
 
