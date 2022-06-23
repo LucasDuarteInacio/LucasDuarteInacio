@@ -19,6 +19,12 @@
 - 💻 Java❤️ , Grails, Node, Angular, ReactJS, Typescript
 - ✨ Learning is continuous and there will always be a next level
 
+ <div>
+  <a href="https://github.com/lucasduarteinacio">
+  <img height="140px" width"50%" src="https://github-readme-stats.vercel.app/api?username=lucasduarteinacio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140px" width"50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasduarteinacio&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 
 <!--
 **LucasDuarteInacio/LucasDuarteInacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
