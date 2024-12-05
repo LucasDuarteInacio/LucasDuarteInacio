@@ -15,8 +15,8 @@
 
 ### Hey! Welcome to my profile! How is it going? 👋😄
 
-- 🚀 I’m currently working at [CI&T](https://ciandt.com/br/pt-br/home)
-- 💻 Java❤️ , Grails, Node, Angular, ReactJS, Typescript
+- 🚀 I’m currently working at [ACT Digital](https://actdigital.com/pt)
+- 💻 Java❤️ , Node, Angular, React, React Native
 - ✨ Learning is continuous and there will always be a next level
 
  <div>
